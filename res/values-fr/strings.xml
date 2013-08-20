@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="pref_ctrl_touchscreen">Utiliser écran tactile</string>
-    <string name="pref_ctrl_touchscreen_summary">Si vous utiliser un Xperia Play, cochez cette case</string>
+    <string name="pref_ctrl_touchscreen_summary">Si vous utiliser un Xperia Play, decochez cette case</string>
     <string name="pref_mp_username">Nom en Multijoueur</string>
-    <string name="pref_mp_username_summary">Votre nom, duh</string>
+    <string name="pref_mp_username_summary">Votre nom</string>
     <string name="pref_texture_pack">Pack de texture</string>
     <string name="pref_texture_pack_summary">Changer votre texture pack</string>
     <string name="pref_ctrl_usetouchjoypad">Diviser tactile en plusieurs</string>
@@ -16,7 +16,7 @@
     <string name="pref_zz_longvibration">Vibrations Extra-Longues</string>
     <string name="pref_zz_longvibration_summary">Augmenter la durée de vibration de 5x</string>
     <string name="pref_gfx_fancygraphics">Graphiques Hd</string>
-    <string name="pref_gfx_fancygraphics_summary">Make stuff look better</string>
+    <string name="pref_gfx_fancygraphics_summary">Rend les objets plus beau a regarder</string>
     <string name="pref_gfx_lowquality">Graphiques de basse qualité</string>
     <string name="pref_gfx_lowquality_summary">Faire des trucs pire à paraître</string>
     <string name="pref_game_difficultypeaceful">Mode pacifique</string>
@@ -26,7 +26,7 @@
     <string name="pref_zz_safe_mode">Mode sécurisé</string>
     <string name="pref_zz_safe_mode_summary">Désactiver tout les patchs</string>
     <string name="pref_zz_patch_ip_enable">Redirection au multijoueurs</string>
-    <string name="pref_zz_patch_ip_enable_summary">Redirectionner au multijoueur quand un serveur est en ligne</string>
+    <string name="pref_zz_patch_ip_enable_summary">Rediriger au multijoueur quand un serveur est en ligne</string>
     <string name="pref_zz_patch_ip">Adresse IP du serveur</string>
     <string name="pref_zz_patch_ip_summary">L\'adresse IP du serveur en ligne</string>
     <string name="pref_zz_texture_pack_enable">Utiliser un texture pack</string>
